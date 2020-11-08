@@ -1,8 +1,8 @@
-package part05_combinator_pattern;
+package part06_callback;
 
 import java.time.LocalDate;
 
-import static part05_combinator_pattern.CustomerRegistrationValidator.*;
+import static part06_callback.CustomerRegistrationValidator.*;
 
 public class Main {
     public static void main(String[] args) {

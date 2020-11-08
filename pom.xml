@@ -27,5 +27,6 @@
         <module>part03_streams</module>
         <module>part04_optionals</module>
         <module>part05_combinator_pattern</module>
+        <module>part06_callback</module>
     </modules>
 </project>

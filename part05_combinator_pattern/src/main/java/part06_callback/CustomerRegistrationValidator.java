@@ -1,11 +1,11 @@
-package part05_combinator_pattern;
+package part06_callback;
 
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.function.Function;
 
-import static part05_combinator_pattern.CustomerRegistrationValidator.*;
-import static part05_combinator_pattern.CustomerRegistrationValidator.ValidationResult.*;
+import static part06_callback.CustomerRegistrationValidator.*;
+import static part06_callback.CustomerRegistrationValidator.ValidationResult.*;
 
 
 public interface CustomerRegistrationValidator extends Function<Customer, ValidationResult> {

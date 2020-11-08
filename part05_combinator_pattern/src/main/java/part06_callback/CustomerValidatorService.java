@@ -1,4 +1,4 @@
-package part05_combinator_pattern;
+package part06_callback;
 
 import java.time.LocalDate;
 import java.time.Period;
