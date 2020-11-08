@@ -1,4 +1,4 @@
-package com.demo.part03_streams;
+package part03_streams;
 
 import java.util.ArrayList;
 import java.util.Arrays;

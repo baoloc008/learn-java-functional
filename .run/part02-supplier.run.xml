@@ -1,10 +1,10 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="part02-supplier" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="com.demo.part02_functional_interface.DemoSupplier" />
+    <option name="MAIN_CLASS_NAME" value="part02_functional_interface.DemoSupplier" />
     <module name="part02_functional_interface" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.demo.part02_functional_interface.*" />
+        <option name="PATTERN" value="part02_functional_interface.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>

@@ -1,4 +1,4 @@
-package com.demo.part03_streams;
+package part01_imperative_declarative;
 
 public class Person {
     public final String name;

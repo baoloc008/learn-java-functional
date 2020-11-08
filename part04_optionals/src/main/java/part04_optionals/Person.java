@@ -1,4 +1,4 @@
-package com.demo.part04_optionals;
+package part04_optionals;
 
 import java.util.Optional;
 

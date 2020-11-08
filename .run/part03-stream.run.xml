@@ -1,10 +1,10 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="part03-stream" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="com.demo.part03_streams.DemoStream" />
+    <option name="MAIN_CLASS_NAME" value="part03_streams.DemoStream" />
     <module name="part03_streams" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.demo.part03_streams.*" />
+        <option name="PATTERN" value="part03_streams.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>

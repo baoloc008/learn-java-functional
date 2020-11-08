@@ -1,10 +1,10 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="part01" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="com.demo.part01_imperative_declarative.Main" />
+    <option name="MAIN_CLASS_NAME" value="part01_imperative_declarative.Main" />
     <module name="part01_imperative_declarative" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.demo.part01_imperative_declarative.*" />
+        <option name="PATTERN" value="part01_imperative_declarative.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>

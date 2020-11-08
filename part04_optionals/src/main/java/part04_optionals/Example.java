@@ -1,4 +1,4 @@
-package com.demo.part04_optionals;
+package part04_optionals;
 
 public class Example {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.demo.part01_imperative_declarative;
+package part01_imperative_declarative;
 
 import java.util.ArrayList;
 import java.util.Arrays;

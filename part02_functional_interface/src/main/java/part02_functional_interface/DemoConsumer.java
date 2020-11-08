@@ -1,7 +1,6 @@
-package com.demo.part02_functional_interface;
+package part02_functional_interface;
 
 import java.util.function.BiConsumer;
-import java.util.function.BiFunction;
 import java.util.function.Consumer;
 
 public class DemoConsumer {
