@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="part03-stream" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.demo.part03_streams.DemoStream" />
+    <module name="part03_streams" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.demo.part03_streams.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

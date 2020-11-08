@@ -25,5 +25,6 @@
         <module>part01_imperative_declarative</module>
         <module>part02_functional_interface</module>
         <module>part03_streams</module>
+        <module>part04_optionals</module>
     </modules>
 </project>
