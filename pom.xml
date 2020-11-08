@@ -26,5 +26,6 @@
         <module>part02_functional_interface</module>
         <module>part03_streams</module>
         <module>part04_optionals</module>
+        <module>part05_combinator_pattern</module>
     </modules>
 </project>
