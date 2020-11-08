@@ -28,5 +28,6 @@
         <module>part04_optionals</module>
         <module>part05_combinator_pattern</module>
         <module>part06_callback</module>
+        <module>part07_lambdas</module>
     </modules>
 </project>
